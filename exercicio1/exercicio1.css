@@ -1,0 +1,50 @@
+/* tags */
+header {
+	background-color: #00FF7F;
+	height: 90px;
+	padding: 10px;
+}
+*{
+	margin: 0;
+	padding: 0;
+	background-color: #D2691E;
+}
+
+nav{
+	background-color: #4B0082;
+	height: 20px;
+}
+
+article{
+	background-color: yellow;
+	min-height: 180px;
+	width: 60%;
+	float: left;
+}
+
+aside{
+	background-color: #FF1493;
+	min-height: 180px;
+	width: 40%;
+	float: right;
+}
+
+
+footer{
+	clear: both;
+	background-color: #00FF7F;
+	height: 40px;
+}
+
+/* ids */
+
+#div_cima{
+	background-color: blue;
+	height: 15px;
+}
+
+
+#div_baixo{
+	background-color: blue;
+	height: 15px;
+}
